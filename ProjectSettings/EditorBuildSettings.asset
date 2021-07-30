@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UnityChanKAGURA/Scenes/UnityChanKAGURA.unity
     guid: dc7db999adf301847b67b9e5979b6153
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f6a26c66759a9824298ef5d9f4e8f0cf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3c2938304e0fa494ba2cd3cda5393e52,
+      type: 2}
